@@ -1,5 +1,9 @@
 # COS - Cognitive Offload System
 
+<!-- portfolio-card:start -->
+[![COS — Расходы, время и дела. Зафиксировать и забыть.](docs/portfolio/card.png)](docs/portfolio/card.svg)
+<!-- portfolio-card:end -->
+
 Telegram-бот для полного выноса операционки (финансы, время, задачи, заметки) из головы пользователя.
 
 ## Описание
