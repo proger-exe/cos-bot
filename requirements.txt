@@ -1,0 +1,4 @@
+aiogram==3.4.1
+sqlalchemy==2.0.23
+apscheduler==3.10.4
+python-dotenv==1.0.0
